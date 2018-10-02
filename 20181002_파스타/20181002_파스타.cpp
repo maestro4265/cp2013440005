@@ -33,6 +33,29 @@ int main(void)
 	printf("%d\n", a);    //%d는 a의 저장된 값을 십진수로 표현, %x는 16진수 
     printf("%d\n", d);
 
+
+
+	//조건문(condtitional statement) : 조건에 따라 문장의 실행 순서를 변경 ex) if, for, swithch...
+
+	a=10;
+
+	if(a==10)  //조건문 시작
+	{
+		printf("%d", a);
+		printf("블라블라블라"); //if 내에 여러가지 문장 사용가능(복합문, 중괄호를 사용해야함)
+	}
+	else
+		printf("no result");   //조건문 끝
+
+	//if만 사용해도 무방, else if도 사용가능
+
+	printf("program end"); //조건과 상관없이 무조건 실행되는 문장
+
+
+
+
+
+
 //아랫부분 당분간 무시
 	return 0;
 }
