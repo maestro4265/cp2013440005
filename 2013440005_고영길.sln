@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "20181002_치킨", "20181002_치킨\20181002_치킨.vcxproj", "{F7EE649F-EA3F-4935-B70C-AB25154786B2}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "20181002_파스타", "20181002_파스타\20181002_파스타.vcxproj", "{65033921-DD1E-40C4-94F5-C8A87A6F3DD6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F7EE649F-EA3F-4935-B70C-AB25154786B2}.Debug|Win32.ActiveCfg = Debug|Win32
+		{F7EE649F-EA3F-4935-B70C-AB25154786B2}.Debug|Win32.Build.0 = Debug|Win32
+		{F7EE649F-EA3F-4935-B70C-AB25154786B2}.Release|Win32.ActiveCfg = Release|Win32
+		{F7EE649F-EA3F-4935-B70C-AB25154786B2}.Release|Win32.Build.0 = Release|Win32
+		{65033921-DD1E-40C4-94F5-C8A87A6F3DD6}.Debug|Win32.ActiveCfg = Debug|Win32
+		{65033921-DD1E-40C4-94F5-C8A87A6F3DD6}.Debug|Win32.Build.0 = Debug|Win32
+		{65033921-DD1E-40C4-94F5-C8A87A6F3DD6}.Release|Win32.ActiveCfg = Release|Win32
+		{65033921-DD1E-40C4-94F5-C8A87A6F3DD6}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
