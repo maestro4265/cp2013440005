@@ -17,6 +17,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ex1-5", "ex1-5\ex1-5.vcxpro
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ex1-6", "ex1-6\ex1-6.vcxproj", "{D03C5A94-EC5D-4883-ACBD-DA13D0885402}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "20181016_탕수육", "20181016_탕수육\20181016_탕수육.vcxproj", "{B3725047-F86F-450A-BA3A-19CC43933F4B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -55,6 +57,10 @@ Global
 		{D03C5A94-EC5D-4883-ACBD-DA13D0885402}.Debug|Win32.Build.0 = Debug|Win32
 		{D03C5A94-EC5D-4883-ACBD-DA13D0885402}.Release|Win32.ActiveCfg = Release|Win32
 		{D03C5A94-EC5D-4883-ACBD-DA13D0885402}.Release|Win32.Build.0 = Release|Win32
+		{B3725047-F86F-450A-BA3A-19CC43933F4B}.Debug|Win32.ActiveCfg = Debug|Win32
+		{B3725047-F86F-450A-BA3A-19CC43933F4B}.Debug|Win32.Build.0 = Debug|Win32
+		{B3725047-F86F-450A-BA3A-19CC43933F4B}.Release|Win32.ActiveCfg = Release|Win32
+		{B3725047-F86F-450A-BA3A-19CC43933F4B}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
