@@ -20,7 +20,7 @@ int sum( int x, int y)
 	return c;
 }
 
-void aa(int x, int y)
+void aa(int x, int y)    // return값이 따로 없는경우 => void
 {
 	int i;
 	int a, b;
@@ -38,7 +38,7 @@ void aa(int x, int y)
 	for(i=b;i<=a;i++)
 		printf("%d ",i);
 
-	return ;
+	return ;   // return statement를 따로 쓰지않아도 된다.
 }
 int main ()
 {
