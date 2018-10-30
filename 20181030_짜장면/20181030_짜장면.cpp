@@ -45,6 +45,8 @@
 		int len=3;
 		int arr[]={3, 30, 300};
 		print_array(arr,len);
+
+		printf("%d", arr[100]); //C언어에서는 array length를 초과하는 element도 출력가능(0으로 출력)
 		return 0;
 	}
 
