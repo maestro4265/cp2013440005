@@ -11,10 +11,9 @@
     </ProjectConfiguration>
   </ItemGroup>
   <PropertyGroup Label="Globals">
-    <ProjectGuid>{73F6FAD1-E646-4C24-9C6D-FD117E0217B7}</ProjectGuid>
+    <ProjectGuid>{235A6ABC-A53B-4F90-9145-30F22CF5AAB6}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
-    <RootNamespace>My2201081023_나베</RootNamespace>
-    <ProjectName>20181023_나베</ProjectName>
+    <RootNamespace>My20181120_닭볶음탕</RootNamespace>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
@@ -77,7 +76,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="20181023_나베.cpp" />
+    <ClCompile Include="20181120_닭볶음탕.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
