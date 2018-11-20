@@ -45,6 +45,8 @@ void insertsorting(int *arr, int len)
 
 				if(arr[k]<arr[i])
 					swap(k, i, arr);
+				else
+					break;
 			}
 	}
 }
