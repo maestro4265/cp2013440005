@@ -111,6 +111,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "20181120_닭볶음탕", "20
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "20181120_아아", "20181120_아아\20181120_아아.vcxproj", "{E3F5219B-2C95-4BAC-8D3B-2DA83AC4149F}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "20181127_데리치킨볶음밥", "20181127_데리치킨볶음밥\20181127_데리치킨볶음밥.vcxproj", "{01EABE9B-2CE2-4899-A81C-7C32E18873CA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -337,6 +339,10 @@ Global
 		{E3F5219B-2C95-4BAC-8D3B-2DA83AC4149F}.Debug|Win32.Build.0 = Debug|Win32
 		{E3F5219B-2C95-4BAC-8D3B-2DA83AC4149F}.Release|Win32.ActiveCfg = Release|Win32
 		{E3F5219B-2C95-4BAC-8D3B-2DA83AC4149F}.Release|Win32.Build.0 = Release|Win32
+		{01EABE9B-2CE2-4899-A81C-7C32E18873CA}.Debug|Win32.ActiveCfg = Debug|Win32
+		{01EABE9B-2CE2-4899-A81C-7C32E18873CA}.Debug|Win32.Build.0 = Debug|Win32
+		{01EABE9B-2CE2-4899-A81C-7C32E18873CA}.Release|Win32.ActiveCfg = Release|Win32
+		{01EABE9B-2CE2-4899-A81C-7C32E18873CA}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
