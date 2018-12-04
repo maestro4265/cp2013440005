@@ -45,7 +45,7 @@ complex returnconjugate(complex *ptr) //켤레복소수를 반환하는 함수(구조체를 반환
 	return *ptr;
 }
 
-complex* returnconjugate1(complex *ptr) //구조체포인터변수를 반환하는 함수(구조체를 반환하는 형태로 사용하는일 거의 없음)
+complex* returnconjugate1(complex* ptr) //구조체포인터변수를 반환하는 함수(구조체를 반환하는 형태로 사용하는일 거의 없음)
 {
 	ptr->imag=-1*ptr->imag;
 
@@ -70,18 +70,18 @@ int main(void)
 	printcomplex1(a);
 
 	//구조체 포인터 변수
-	 complex* ptr;
+	 complex *ptr;
 	 ptr=&a;
 	 ptr -> real=100;   // 포인터를 이용해서 각각의 변수에 접근가능  a.imag, a.real보다 빈번히 사용
 	 ptr -> imag=10;
 
-	/* printcomplex2(ptr);
+	 printcomplex2(ptr);
 
 	 printcomplexconjugate(ptr);
 
 	 a=returnconjugate(ptr);
 
-	 printcomplex1(a);*/
+	 printcomplex1(a);
 
 	 complex* c;
 
